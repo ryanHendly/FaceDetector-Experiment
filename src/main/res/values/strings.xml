@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceRecogniser</string>
+    <string name="register_string"><u>Or click here if this your first time using the app.</u></string>
+    <string name="title_activity_main_menu">MainMenu</string>
+</resources>
